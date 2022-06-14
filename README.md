@@ -1,4 +1,4 @@
-# WRANGLE-AND-ANALYZE-DATA-Analysis-of-Welovedogs-Twitter-account-
+# WRANGLE-AND-ANALYZE-DATA-Analysis-of-Weratedogs-Twitter-account-
 
 <p align="center">
   <a href="https://www.udacity.com/">
@@ -36,19 +36,18 @@ WeRateDogs downloaded their Twitter archive and sent it to Udacity via email exc
 
 ### What Software Did I ? <a name="installation"></a>
 
-The entirety of this project can be completed inside The jupyter notebook in my local machine
-
 <ul>
+    <li>The entirety of this project can be completed inside The jupyter notebook in my local machine. The folllowing libaries were imported:</li>
  
-    <li>The following packages (libraries) was installed.</li>
-  
   <ul>
         <li>pandas</li>
         <li>NumPy</li>
         <li>requests</li>
         <li>tweepy</li>
         <li>json</li>
-   </ul>
+    </ul>
+    <li>You need to be able to create written documents that contain images and you need to be able to export these documents as PDF files. This task can be done in a Jupyter Notebook, but you might prefer to use a word processor like <a href="https://www.google.com/docs/about/">Google Docs</a>, which is free, or Microsoft Word.</li>
+    <li>A text editor, like <a href="https://www.sublimetext.com/">Sublime</a>, which is free, will be useful but is not required.</li>
 </ul>
 
 ### Project Details <a name="details"></a>
