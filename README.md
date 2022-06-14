@@ -124,10 +124,9 @@ This is an Udacity Nanodegree project.I was interested in using Tweet Data to be
 
 - **Visualizations**
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Abhishek20182/Wrangle-and-Analyze-Data/master/Result-1.png" width=500px>
-  <img src="https://raw.githubusercontent.com/Abhishek20182/Wrangle-and-Analyze-Data/master/Result-2.png">
-  <img src="https://raw.githubusercontent.com/Abhishek20182/Wrangle-and-Analyze-Data/master/Result-3.png">
-  <img src="https://raw.githubusercontent.com/Abhishek20182/Wrangle-and-Analyze-Data/master/Result-4.png">
+  <img src="https://github.com/SandraOsara/WRANGLE-AND-ANALYZE-DATA-Analysis-of-Welovedogs-Twitter-account-/blob/main/Picture3.png" width=500px>
+  <img src="https://github.com/SandraOsara/WRANGLE-AND-ANALYZE-DATA-Analysis-of-Welovedogs-Twitter-account-/blob/main/Picture2.png">
+  <img src="https://github.com/SandraOsara/WRANGLE-AND-ANALYZE-DATA-Analysis-of-Welovedogs-Twitter-account-/blob/main/Picture1.png">
 </p>
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
