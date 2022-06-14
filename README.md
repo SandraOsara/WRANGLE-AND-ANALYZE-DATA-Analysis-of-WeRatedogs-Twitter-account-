@@ -12,7 +12,7 @@
 
 ## Table of Contents
 - [Project Overview](#project_overview)
-- [Installation](#installation)
+- [What Software Did I Use](#installation)
 - [Project Details](#details)
   - [Gathering Data](#gather)
   - [Assessing Data](#assess)
